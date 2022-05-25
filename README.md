@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "intellij-one-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Intellij One Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Intellij theme and one dark syntax scheme mix for visual studio
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+[![Version](https://vsmarketplacebadge.apphb.com/version/SonalSithara.intellij-one-dark.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.intellij-one-dark) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/SonalSithara.intellij-one-dark.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.intellij-one-dark) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/SonalSithara.intellij-one-dark.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.intellij-one-dark) ![](https://img.shields.io/github/stars/Sonal23520/intellij-one-dark?style=social&label=Star&maxAge=2592000)
 
-**Enjoy!**
+## Screenshot
+
+![](https://i.postimg.cc/SNwqssT2/Screenshot-20220525-125244.png)
+
+![](https://i.postimg.cc/0jRFvM2P/Screenshot-20220525-125550.png)
+

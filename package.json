@@ -4,6 +4,8 @@
     "description": "Mix Intellij Theme And One Dark Syntax Scheme",
     "version": "0.0.1",
     "publisher": "SonalSithara",
+    "icon": "image/logo.png",
+    "repository": "https://github.com/Sonal23520/intellij-one-dark",
     "engines": {
         "vscode": "^1.67.0"
     },
