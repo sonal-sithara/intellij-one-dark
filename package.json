@@ -1,0 +1,22 @@
+{
+    "name": "intellij-one-dark",
+    "displayName": "Intellij One Dark",
+    "description": "Mix Intellij Theme And One Dark Syntax Scheme",
+    "version": "0.0.1",
+    "publisher": "SonalSithara",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Intellij One Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Intellij One Dark-color-theme.json"
+            }
+        ]
+    }
+}
