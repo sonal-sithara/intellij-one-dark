@@ -2,7 +2,7 @@
     "name": "intellij-one-dark",
     "displayName": "Intellij One Dark Theme",
     "description": "A theme extension for Visual Studio Code based on One Dark theme and Darcula theme from Jetbrains IDE's,This is a mix of two diffrent theme.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "SonalSithara",
     "icon": "image/logo.png",
     "repository": "https://github.com/sonal-sithara/intellij-one-dark",
